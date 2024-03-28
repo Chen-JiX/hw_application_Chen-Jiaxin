@@ -1,2 +1,3 @@
-# hw_application_Chen-Jiaxin
-choose language and print ‘hello’
+# hw_of_Chen-Jiaxin
+all the homework and task
+
